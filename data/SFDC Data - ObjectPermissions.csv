@@ -1,0 +1,992 @@
+Parent.Profile.Name,PermissionsCreate,PermissionsDelete,PermissionsEdit,PermissionsModifyAllRecords,PermissionsRead,PermissionsViewAllRecords,SobjectType
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Account
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AIInsightReason
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AIRecordInsight
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AlternativePaymentMethod
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ApiAnomalyEventStore
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AppAnalyticsQueryRequest
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AppUsageAssignment
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Asset
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AssetAction
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AssetActionSource
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AssetStatePeriod
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AsyncOperationLog
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationForm
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormDataUse
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormText
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,BackgroundOperation
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,BusinessBrand
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Campaign
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CardPaymentMethod
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Case
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ChangeRequest
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscription
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionChannelType
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionTiming
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ConsumptionSchedule
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Contact
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointAddress
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointEmail
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointPhone
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointTypeConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactRequest
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Contract
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContractLineItem
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CredentialStuffingEventStore
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CreditMemo
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CreditMemoInvApplication
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Customer
+Analytics Cloud Integration User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DandBCompany
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DataUseLegalBasis
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DataUsePurpose
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DigitalWallet
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Document
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DuplicateRecordSet
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,EngagementChannelType
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Entitlement
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,EntitlementContact
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Equipment_Maintenance_Item__c
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FinanceBalanceSnapshot
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FinanceTransaction
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,General_Information__c
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,GtwyProvPaymentMethodType
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Idea
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Image
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Incident
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Individual
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Invoice
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Lead
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,LegalEntity
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Location
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,LocationGroup
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,LocationGroupAssignment
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Macro
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,MemberPlan__c
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,MessagingEndUser
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,MessagingSession
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Opportunity
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Order
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PartyConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Payment
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentAuthAdjustment
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentAuthorization
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentGateway
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentGatewayLog
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentGroup
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentLineInvoice
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Pricebook2
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PrivacyConsent
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Problem
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ProcessException
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Product2
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PushTopic
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,QuickText
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Refund
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,RefundLinePayment
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ReportAnomalyEventStore
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Scorecard
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ScorecardAssociation
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ScorecardMetric
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Seller
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ServiceContract
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,SessionHijackingEventStore
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Solution
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,StreamingChannel
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,UserExternalCredential
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Vehicle__c
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WebCartDocument
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkOrder
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkPlan
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Analytics Cloud Integration User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkStepTemplate
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Account
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Asset
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationForm
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormConsent
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormDataUse
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,AuthorizationFormText
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,BusinessBrand
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Campaign
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Case
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscription
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionChannelType
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionConsent
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,CommSubscriptionTiming
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Contact
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointConsent
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointEmail
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointPhone
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContactPointTypeConsent
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Contract
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ContractLineItem
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Customer
+Analytics Cloud Security User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DandBCompany
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DataUseLegalBasis
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,DataUsePurpose
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Document
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,EngagementChannelType
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Entitlement
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,EntitlementContact
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Idea
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Image
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Individual
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Invoice
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Lead
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Location
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Macro
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Opportunity
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Order
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PartyConsent
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Payment
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PaymentLineInvoice
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Pricebook2
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Product2
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,PushTopic
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,QuickText
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Seller
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,ServiceContract
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Solution
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,StreamingChannel
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,UserExternalCredential
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkOrder
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkPlan
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Analytics Cloud Security User,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,WorkStepTemplate
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Account
+Authenticated Website,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Authenticated Website,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Authenticated Website,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Authenticated Website,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+B2B Reordering Portal Buyer Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Account
+B2B Reordering Portal Buyer Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,BackgroundOperation
+B2B Reordering Portal Buyer Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contact
+B2B Reordering Portal Buyer Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Contract Manager,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,AIRecordInsight
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointAddress
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Customer
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Document
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Contract Manager,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Seller
+Contract Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Contract Manager,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Contract Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,StreamingChannel
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkPlan
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Contract Manager,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkStepTemplate
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Cross Org Data Proxy User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Campaign
+Custom: Marketing Profile,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contract
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Equipment_Maintenance_Item__c
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Custom: Marketing Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Custom: Marketing Profile,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Custom: Marketing Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Vehicle__c
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Campaign
+Custom: Sales Profile,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contract
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Equipment_Maintenance_Item__c
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Custom: Sales Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Custom: Sales Profile,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Custom: Sales Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Vehicle__c
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Campaign
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Case
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contract
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Equipment_Maintenance_Item__c
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Custom: Support Profile,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Solution
+Custom: Support Profile,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Vehicle__c
+Customer Community Login User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Customer Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Community Login User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Customer Community Plus Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Community Plus Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Community Plus Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Community Plus Login User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Community Plus Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Community Plus Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Community Plus Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Seller
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Customer Community Plus Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Community Plus Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Customer Community Plus User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Community Plus User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Community Plus User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Community Plus User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Community Plus User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Community Plus User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Community Plus User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Seller
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Customer Community Plus User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Community Plus User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Customer Community User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Customer Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Community User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Customer Portal Manager Custom,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Portal Manager Custom,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Portal Manager Custom,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Portal Manager Custom,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Portal Manager Custom,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Portal Manager Custom,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Portal Manager Custom,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Customer Portal Manager Custom,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Portal Manager Custom,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Customer Portal Manager Standard,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contact
+Customer Portal Manager Standard,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Customer Portal Manager Standard,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Customer Portal Manager Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Individual
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Customer Portal Manager Standard,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Customer Portal Manager Standard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Customer Portal Manager Standard,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+External Apps Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Account
+External Apps Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,BackgroundOperation
+External Apps Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contact
+External Apps Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+External Identity User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+External Identity User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+External Identity User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+External Identity User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+External Identity User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+External Identity User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+External Identity User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Customer
+External Identity User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+External Identity User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+External Identity User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Seller
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Account
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationForm
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormConsent
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormDataUse
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormText
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,BusinessBrand
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscription
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionChannelType
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionConsent
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionTiming
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contact
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointConsent
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointEmail
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointPhone
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointTypeConsent
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Customer
+Force.com - App Subscription User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUseLegalBasis
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUsePurpose
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EngagementChannelType
+Force.com - App Subscription User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Individual
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PartyConsent
+Force.com - App Subscription User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PushTopic
+Force.com - App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Seller
+Force.com - Free User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Gold Partner User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContractLineItem
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Gold Partner User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Gold Partner User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Lead
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Gold Partner User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,PushTopic
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Gold Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Gold Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+High Volume Customer Portal,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+High Volume Customer Portal,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+High Volume Customer Portal,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+High Volume Customer Portal,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+High Volume Customer Portal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+High Volume Customer Portal,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+High Volume Customer Portal,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+High Volume Customer Portal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+High Volume Customer Portal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+High Volume Customer Portal,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+High Volume Customer Portal User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+High Volume Customer Portal User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+High Volume Customer Portal User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+High Volume Customer Portal User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+High Volume Customer Portal User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+High Volume Customer Portal User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+High Volume Customer Portal User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+High Volume Customer Portal User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+High Volume Customer Portal User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+High Volume Customer Portal User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Identity User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PushTopic
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Marketing User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,AIRecordInsight
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Campaign
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointAddress
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Customer
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Document
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Marketing User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Seller
+Marketing User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Marketing User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Marketing User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,StreamingChannel
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkPlan
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Marketing User,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkStepTemplate
+Minimum Access - Salesforce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Minimum Access - Salesforce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Minimum Access - Salesforce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Minimum Access - Salesforce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Minimum Access - Salesforce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Account
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationForm
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormConsent
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormDataUse
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormText
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscription
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionChannelType
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contact
+Partner App Subscription User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUseLegalBasis
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUsePurpose
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+Partner App Subscription User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EngagementChannelType
+Partner App Subscription User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Partner App Subscription User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PushTopic
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Partner Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContractLineItem
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Partner Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Partner Community Login User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Lead
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Partner Community Login User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Partner Community Login User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Partner Community Login User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Asset
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Contact
+Partner Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContractLineItem
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Partner Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Partner Community User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Individual
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Lead
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Partner Community User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Partner Community User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Partner Community User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Account
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,AIRecordInsight
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Asset
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,AuthorizationForm
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,AuthorizationFormText
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Case
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,CommSubscription
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contact
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContactPointAddress
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContactPointConsent
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContactPointEmail
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContactPointPhone
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contract
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DataUsePurpose
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EngagementChannelType
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Read Only,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Equipment_Maintenance_Item__c
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Individual
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lead
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Location
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Macro
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Opportunity
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Order
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,PartyConsent
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Read Only,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Vehicle__c
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,WorkOrder
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,WorkPlan
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,WorkPlanTemplate
+Read Only,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,WorkStepTemplate
+Silver Partner User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Account
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Asset
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Contact
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContractLineItem
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Document
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Entitlement
+Silver Partner User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EntitlementContact
+Silver Partner User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Individual
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Lead
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ServiceContract
+Silver Partner User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Silver Partner User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Solution Manager,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,AIRecordInsight
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointAddress
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Customer
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Document
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Solution Manager,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Seller
+Solution Manager,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Solution
+Solution Manager,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,StreamingChannel
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkPlan
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Solution Manager,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkStepTemplate
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Standard Platform User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Customer
+Standard Platform User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Document
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Standard Platform User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Standard Platform User,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PushTopic
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Seller
+Standard Platform User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,StreamingChannel
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Account
+Standard User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,AIRecordInsight
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Asset
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationForm
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormConsent
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormDataUse
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,AuthorizationFormText
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,BusinessBrand
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Campaign
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Case
+Standard User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscription
+Standard User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionChannelType
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionConsent
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,CommSubscriptionTiming
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contact
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointAddress
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointConsent
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointEmail
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointPhone
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,ContactPointTypeConsent
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,ContactRequest
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Contract
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ContractLineItem
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Customer
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,DandBCompany
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUseLegalBasis
+Standard User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,DataUsePurpose
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Document
+Standard User,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,EngagementChannelType
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Entitlement
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,EntitlementContact
+Standard User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Idea
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Individual
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Lead
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Location
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Macro
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Opportunity
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Order
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PartyConsent
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Pricebook2
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Product2
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,QuickText
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Seller
+Standard User,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,ServiceContract
+Standard User,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Solution
+Standard User,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,StreamingChannel
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkOrder
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,WorkPlan
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkPlanTemplate
+Standard User,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,WorkStepTemplate
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Account
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Account
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AIInsightReason
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AIInsightReason
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AIRecordInsight
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AIRecordInsight
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AlternativePaymentMethod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AlternativePaymentMethod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ApiAnomalyEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ApiAnomalyEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AppAnalyticsQueryRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AppAnalyticsQueryRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AppUsageAssignment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AppUsageAssignment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Asset
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Asset
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetAction
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetAction
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetActionSource
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetActionSource
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetStatePeriod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AssetStatePeriod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AsyncOperationLog
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AsyncOperationLog
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationForm
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationForm
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormDataUse
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormDataUse
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormText
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,AuthorizationFormText
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,BackgroundOperation
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,BackgroundOperation
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,BusinessBrand
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,BusinessBrand
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Campaign
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Campaign
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CardPaymentMethod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CardPaymentMethod
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Case
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Case
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ChangeRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ChangeRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscription
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscription
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionChannelType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionChannelType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionTiming
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CommSubscriptionTiming
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ConsumptionSchedule
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ConsumptionSchedule
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contact
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contact
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointAddress
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointAddress
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointEmail
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointEmail
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointPhone
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointPhone
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointTypeConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactPointTypeConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContactRequest
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contract
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Contract
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContractLineItem
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ContractLineItem
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CredentialStuffingEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CredentialStuffingEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CreditMemo
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CreditMemo
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CreditMemoInvApplication
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,CreditMemoInvApplication
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Customer
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Customer
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DandBCompany
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DandBCompany
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUseLegalBasis
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUseLegalBasis
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUsePurpose
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DataUsePurpose
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DigitalWallet
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DigitalWallet
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DuplicateRecordSet
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,DuplicateRecordSet
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EngagementChannelType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EngagementChannelType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Entitlement
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Entitlement
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EntitlementContact
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,EntitlementContact
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Equipment_Maintenance_Item__c
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FinanceBalanceSnapshot
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FinanceBalanceSnapshot
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FinanceTransaction
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FinanceTransaction
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,General_Information__c
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,GtwyProvPaymentMethodType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,GtwyProvPaymentMethodType
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Idea
+System Administrator,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Idea
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Image
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Image
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Incident
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Incident
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Individual
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Individual
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Invoice
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Invoice
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Lead
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Lead
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LegalEntity
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LegalEntity
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Location
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Location
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LocationGroup
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LocationGroup
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LocationGroupAssignment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,LocationGroupAssignment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Macro
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Macro
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,MemberPlan__c
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,MessagingEndUser
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,MessagingEndUser
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,MessagingSession
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,MessagingSession
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Opportunity
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Opportunity
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Order
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Order
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PartyConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PartyConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Payment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Payment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentAuthAdjustment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentAuthAdjustment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentAuthorization
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentAuthorization
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGateway
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGateway
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGatewayLog
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGatewayLog
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGroup
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentGroup
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentLineInvoice
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PaymentLineInvoice
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Pricebook2
+System Administrator,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Pricebook2
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PrivacyConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PrivacyConsent
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Problem
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Problem
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ProcessException
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ProcessException
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Product2
+System Administrator,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Product2
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PushTopic
+System Administrator,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,PushTopic
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,QuickText
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,QuickText
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Refund
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Refund
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,RefundLinePayment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,RefundLinePayment
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ReportAnomalyEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ReportAnomalyEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Scorecard
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Scorecard
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ScorecardAssociation
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ScorecardAssociation
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ScorecardMetric
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ScorecardMetric
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Seller
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Seller
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ServiceContract
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,ServiceContract
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,SessionHijackingEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,SessionHijackingEventStore
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Solution
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Solution
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,StreamingChannel
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,StreamingChannel
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,UserExternalCredential
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,UserExternalCredential
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Vehicle__c
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WebCartDocument
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WebCartDocument
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkOrder
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkOrder
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkPlan
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkPlan
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkPlanTemplate
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkPlanTemplate
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkStepTemplate
+System Administrator,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,WorkStepTemplate
+Work.com Only User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Document
+Work.com Only User,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,PushTopic
