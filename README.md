@@ -69,3 +69,7 @@ CONSUMER_SECRET = "<consumer_secret>" #create connected app in salesforce and th
 - Data Export
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Export1.png" alt="bench">
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Export2.png" alt="bench">
+
+## References
+- https://docs.streamlit.io/library/api-reference
+- https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs
