@@ -58,9 +58,13 @@ CONSUMER_SECRET = "<consumer_secret>" #create connected app in salesforce and th
 - Tree structure of Territory Modal
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Tree.png" alt="bench">
 
+---
+
 - Chat Bot (Using OpenAI)
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Bot1.png" alt="bench">
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Bot2.png" alt="bench">
+
+---
 
 - Data Export
 <img width=1200 src="https://github.com/rahul07bagul/SFDC_Streamlit_GPT/blob/main/screenshots/Export1.png" alt="bench">
